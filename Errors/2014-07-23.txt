@@ -1,0 +1,15 @@
+
+Log Entry : 
+07/23/2014 17:18:04
+Error in: http://localhost:11843/ReceiveUnfinishedInventory.aspx. Error Message: The cast to value type 'Double' failed because the materialized value is null. Either the result type's generic parameter or the query must use a nullable type.
+__________________________
+
+Log Entry : 
+07/23/2014 17:20:37
+Error in: http://localhost:11843/ReceiveUnfinishedInventory.aspx. Error Message: An error occurred while updating the entries. See the inner exception for details.
+__________________________
+
+Log Entry : 
+07/23/2014 17:25:43
+Error in: http://localhost:11843/ReceiveUnfinishedInventory.aspx. Error Message: An error occurred while updating the entries. See the inner exception for details.
+__________________________

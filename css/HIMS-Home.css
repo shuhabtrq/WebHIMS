@@ -1,0 +1,75 @@
+﻿body {
+    margin:0px;
+    font-family:Verdana;
+    width:100%;
+}
+
+.def-wrapper {
+    width:100%;
+    background:url('../images/black.png') repeat-x;  
+    height: 600px;
+    padding-bottom: 20px;
+    margin:auto; 
+    position:relative;
+    left:0px;
+    right:0px;
+    text-align: center;
+    /*border:2px solid Red;*/
+}
+
+.def-wrapper .heading {
+    position:absolute;
+    width:1024px;
+    margin:auto; 
+    top:40px;
+    left:0px;
+    right:0px;
+    /*border:solid 1px #000000;*/
+    font-family: 'Century Gothic';
+    font-size:36px;
+    color:#ffffff;
+    text-align:center;
+    letter-spacing:2px;
+}
+
+ .def-wrapper #table-div-wrapper {
+    position:absolute; 
+    width:70%;   
+    margin:auto; 
+    top:140px;
+    left:0px;
+    right:0px;
+    text-align:center; 
+    /*border:solid 1px #ff6a00;*/    
+ }
+
+.def-wrapper #table-div-wrapper table {
+    border:solid 1px #808080;
+    text-align:center;         
+    width:100%;
+}
+
+.def-wrapper .td-internal {
+    width:450px;
+    height:70px;    
+    color:#fff;
+    text-align:left; padding-left:50px;
+    /*font-family:'Century Gothic';*/
+    font-family: monospace;
+    font-size:16px;
+}
+
+#def-footer {
+    margin:auto; left:0px; right:0px;
+    margin-top:50px;
+    position:fixed; bottom:0px;   
+    width:100%;
+    padding-top:20px;
+    padding-bottom:20px;
+    letter-spacing:3px;
+    color:#ffffff;
+    background-color:#333333;
+    border:0px solid #000000;
+    text-align:center;
+    font-family: 'Century Gothic';
+}

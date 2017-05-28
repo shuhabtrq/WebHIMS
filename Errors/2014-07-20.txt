@@ -1,0 +1,30 @@
+
+Log Entry : 
+07/20/2014 07:57:45
+Error in: http://localhost:11843/VendorAllocation.aspx. Error Message: An error occurred while updating the entries. See the inner exception for details.
+__________________________
+
+Log Entry : 
+07/20/2014 08:03:14
+Error in: http://localhost:11843/VendorAllocation.aspx. Error Message: An error occurred while updating the entries. See the inner exception for details.
+__________________________
+
+Log Entry : 
+07/20/2014 08:03:58
+Error in: http://localhost:11843/VendorAllocation.aspx. Error Message: An error occurred while updating the entries. See the inner exception for details.
+__________________________
+
+Log Entry : 
+07/20/2014 16:18:05
+Error in: http://localhost:11843/VendorAllocation.aspx. Error Message: Unable to cast object of type 'System.Data.Entity.Infrastructure.DbQuery`1[<>f__AnonymousType0`1[System.Double]]' to type 'System.IConvertible'.
+__________________________
+
+Log Entry : 
+07/20/2014 16:19:16
+Error in: http://localhost:11843/VendorAllocation.aspx. Error Message: Unable to cast object of type 'System.Data.Entity.Infrastructure.DbQuery`1[<>f__AnonymousType1`1[System.Double]]' to type 'System.IConvertible'.
+__________________________
+
+Log Entry : 
+07/20/2014 16:36:07
+Error in: http://localhost:11843/VendorAllocation.aspx. Error Message: Specified cast is not valid.
+__________________________

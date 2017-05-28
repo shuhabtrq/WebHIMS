@@ -1,0 +1,52 @@
+﻿body {
+    margin:0px;
+}
+
+#mast-header {
+    margin:auto; left:0px; right:0px;
+    position:relative;
+    width:93%;
+    padding-top:30px;
+    padding-bottom:30px;
+    padding-left:7%;    
+    color:#ffffff;
+    background-color:#333333;
+    border:0px solid #000000;
+    text-align:left;
+    font-family: Tahoma;   /*'Century Gothic';*/
+    font-size: 28px;
+    letter-spacing:3px;        
+}
+
+#mast-header #button-home {
+    position:absolute; top:22px; left:30px;
+    background:url("../images/home1.png") no-repeat;
+}
+
+#mast-header #button-money {
+    position:absolute; top:22px; right:20px;
+    background:url("../images/money1.png") no-repeat;
+}
+
+#wrapper #tbl-master-main {
+    width:100%;
+    margin:auto;
+    left:0px;
+    right:0px;
+}
+
+#mast-footer {
+    margin:auto; left:0px; right:0px;
+    margin-top:50px;
+    position:fixed; bottom:0px;   
+    width:100%;
+    padding-top:15px;
+    padding-bottom:15px;
+    letter-spacing:3px;
+    color:#ffffff;
+    background-color:#333333;
+    border:0px solid #000000;
+    text-align:center;
+    font-family: 'Century Gothic';
+    font-size: 12px;
+}

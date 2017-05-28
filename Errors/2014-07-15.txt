@@ -1,0 +1,85 @@
+
+Log Entry : 
+07/15/2014 11:14:34
+Error in: http://localhost:11843/RawMaterial.aspx. Error Message: DataBinding: 'BALRawMaterial' does not contain a property with the name 'RMCreatedOn'.
+__________________________
+
+Log Entry : 
+07/15/2014 11:15:08
+Error in: http://localhost:11843/RawMaterial.aspx. Error Message: DataBinding: 'BALRawMaterial' does not contain a property with the name 'RMCreatedOn'.
+__________________________
+
+Log Entry : 
+07/15/2014 16:17:17
+Error in: http://localhost:11843/RawMaterial.aspx. Error Message: The entity type BALRawMaterial is not part of the model for the current context.
+__________________________
+
+Log Entry : 
+07/15/2014 17:18:45
+Error in: http://localhost:11843/RawMaterial.aspx. Error Message: Input string was not in a correct format.
+__________________________
+
+Log Entry : 
+07/15/2014 17:18:48
+Error in: http://localhost:11843/RawMaterial.aspx. Error Message: Input string was not in a correct format.
+__________________________
+
+Log Entry : 
+07/15/2014 17:18:49
+Error in: http://localhost:11843/RawMaterial.aspx. Error Message: Input string was not in a correct format.
+__________________________
+
+Log Entry : 
+07/15/2014 17:18:50
+Error in: http://localhost:11843/RawMaterial.aspx. Error Message: Input string was not in a correct format.
+__________________________
+
+Log Entry : 
+07/15/2014 17:18:51
+Error in: http://localhost:11843/RawMaterial.aspx. Error Message: Input string was not in a correct format.
+__________________________
+
+Log Entry : 
+07/15/2014 17:20:12
+Error in: http://localhost:11843/RawMaterial.aspx. Error Message: Input string was not in a correct format.
+__________________________
+
+Log Entry : 
+07/15/2014 17:20:56
+Error in: http://localhost:11843/RawMaterial.aspx. Error Message: Input string was not in a correct format.
+__________________________
+
+Log Entry : 
+07/15/2014 17:20:57
+Error in: http://localhost:11843/RawMaterial.aspx. Error Message: Input string was not in a correct format.
+__________________________
+
+Log Entry : 
+07/15/2014 17:20:58
+Error in: http://localhost:11843/RawMaterial.aspx. Error Message: Input string was not in a correct format.
+__________________________
+
+Log Entry : 
+07/15/2014 17:20:58
+Error in: http://localhost:11843/RawMaterial.aspx. Error Message: Input string was not in a correct format.
+__________________________
+
+Log Entry : 
+07/15/2014 17:20:59
+Error in: http://localhost:11843/RawMaterial.aspx. Error Message: Input string was not in a correct format.
+__________________________
+
+Log Entry : 
+07/15/2014 17:20:59
+Error in: http://localhost:11843/RawMaterial.aspx. Error Message: Input string was not in a correct format.
+__________________________
+
+Log Entry : 
+07/15/2014 17:21:00
+Error in: http://localhost:11843/RawMaterial.aspx. Error Message: Input string was not in a correct format.
+__________________________
+
+Log Entry : 
+07/15/2014 17:21:00
+Error in: http://localhost:11843/RawMaterial.aspx. Error Message: Input string was not in a correct format.
+__________________________

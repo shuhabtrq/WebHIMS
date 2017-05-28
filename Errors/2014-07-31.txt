@@ -1,0 +1,5 @@
+
+Log Entry : 
+07/31/2014 13:51:40
+Error in: http://localhost:11843/ReceiveFinishedInventory.aspx. Error Message: Object reference not set to an instance of an object.
+__________________________

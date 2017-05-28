@@ -1,0 +1,52 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Handicrafts Inventory Management System</title>
+    <link href="css/HIMS-Master.css" rel="stylesheet" />
+    <script src="js/jquery1.8.3.min.js"></script>
+    <script src="js/HIMS.js"></script>
+    <style type="text/css">
+    .latest_img { }
+    </style>
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <asp:ScriptManager ID="ScriptManager1" runat="server"></asp:ScriptManager>
+    <div id="wrapper">
+       <asp:ContentPlaceHolder id="cntHeader" runat="server">
+        <div id="mast-header">
+             <a href="Home.aspx" style="color:#ffffff; text-decoration:none;">Handicrafts Inventory Management System</a>
+             <div id="button-home">
+                 <a href="Home.aspx" style="border:0px; outline:0px;" title="Home">                    
+                     <img class="latest_img" style="border:none; outline: none;" src="images/home2.png" title="Home"/>
+                 </a>
+             </div>
+             <div id="button-money">
+                 <a href="VendorBilling.aspx" style="border:0px; outline:0px;" title="Vendor Billing">                    
+                     <img class="latest_img" style="border:none; outline: none;" src="images/money2.png" title="Vendor Billing"/>
+                 </a>
+             </div>
+        </div>        
+       </asp:ContentPlaceHolder>     
+        <table id="tbl-master-main" border="0">            
+            <tr>
+                <td>
+                    <asp:ContentPlaceHolder id="cntBody" runat="server">        
+                    </asp:ContentPlaceHolder>
+                </td>
+            </tr>
+         </table>
+        <asp:ContentPlaceHolder id="cntFooter" runat="server"> 
+            <div id="mast-footer">
+                HIMS - Powered by &copy; Echelon Technology Services Pvt Ltd&nbsp;[<a href="http://www.ets-it.com" target="_blank" style="color:#ffffff;">ets-it.com</a>]
+            </div>        
+        </asp:ContentPlaceHolder>   
+    </div>
+    </form>
+</body>
+</html>

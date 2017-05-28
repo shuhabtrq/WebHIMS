@@ -1,0 +1,15 @@
+
+Log Entry : 
+07/28/2014 00:31:26
+Error in: http://localhost:11843/FinishingProcess.aspx. Error Message: Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+07/28/2014 01:09:00
+Error in: http://localhost:11843/FinishingProcess.aspx. Error Message: Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+07/28/2014 02:00:23
+Error in: http://localhost:11843/FinishingProcess.aspx. Error Message: Input string was not in a correct format.
+__________________________

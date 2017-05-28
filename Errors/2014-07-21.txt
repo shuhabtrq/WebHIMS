@@ -1,0 +1,40 @@
+
+Log Entry : 
+07/21/2014 00:53:20
+Error in: http://localhost:11843/VendorAllocation.aspx. Error Message: Input string was not in a correct format.
+__________________________
+
+Log Entry : 
+07/21/2014 01:34:53
+Error in: http://localhost:11843/VendorAllocation.aspx. Error Message: Input string was not in a correct format.
+__________________________
+
+Log Entry : 
+07/21/2014 01:40:24
+Error in: http://localhost:11843/VendorAllocation.aspx. Error Message: Input string was not in a correct format.
+__________________________
+
+Log Entry : 
+07/21/2014 01:40:50
+Error in: http://localhost:11843/VendorAllocation.aspx. Error Message: Input string was not in a correct format.
+__________________________
+
+Log Entry : 
+07/21/2014 01:46:59
+Error in: http://localhost:11843/VendorAllocation.aspx. Error Message: Input string was not in a correct format.
+__________________________
+
+Log Entry : 
+07/21/2014 01:47:49
+Error in: http://localhost:11843/VendorAllocation.aspx. Error Message: Input string was not in a correct format.
+__________________________
+
+Log Entry : 
+07/21/2014 16:53:09
+Error in: http://localhost:11843/ReceiveUnfinishedInventory.aspx. Error Message: The cast to value type 'Double' failed because the materialized value is null. Either the result type's generic parameter or the query must use a nullable type.
+__________________________
+
+Log Entry : 
+07/21/2014 16:58:32
+Error in: http://localhost:11843/ReceiveUnfinishedInventory.aspx. Error Message: The cast to value type 'Double' failed because the materialized value is null. Either the result type's generic parameter or the query must use a nullable type.
+__________________________

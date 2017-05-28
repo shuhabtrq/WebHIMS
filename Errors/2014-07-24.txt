@@ -1,0 +1,125 @@
+
+Log Entry : 
+07/24/2014 01:13:58
+Error in: http://localhost:11843/ReceiveUnfinishedInventory.aspx. Error Message: The cast to value type 'Double' failed because the materialized value is null. Either the result type's generic parameter or the query must use a nullable type.
+__________________________
+
+Log Entry : 
+07/24/2014 06:33:50
+Error in: http://localhost:11843/ReceiveUnfinishedInventory.aspx. Error Message: The cast to value type 'Double' failed because the materialized value is null. Either the result type's generic parameter or the query must use a nullable type.
+__________________________
+
+Log Entry : 
+07/24/2014 06:33:50
+Error in: http://localhost:11843/ReceiveUnfinishedInventory.aspx. Error Message: The cast to value type 'Double' failed because the materialized value is null. Either the result type's generic parameter or the query must use a nullable type.
+__________________________
+
+Log Entry : 
+07/24/2014 06:33:59
+Error in: http://localhost:11843/ReceiveUnfinishedInventory.aspx. Error Message: The cast to value type 'Double' failed because the materialized value is null. Either the result type's generic parameter or the query must use a nullable type.
+__________________________
+
+Log Entry : 
+07/24/2014 07:05:15
+Error in: http://localhost:11843/ReceiveUnfinishedInventory.aspx. Error Message: The cast to value type 'Double' failed because the materialized value is null. Either the result type's generic parameter or the query must use a nullable type.
+__________________________
+
+Log Entry : 
+07/24/2014 07:07:36
+Error in: http://localhost:11843/ReceiveUnfinishedInventory.aspx. Error Message: The cast to value type 'Double' failed because the materialized value is null. Either the result type's generic parameter or the query must use a nullable type.
+__________________________
+
+Log Entry : 
+07/24/2014 07:07:38
+Error in: http://localhost:11843/ReceiveUnfinishedInventory.aspx. Error Message: The cast to value type 'Double' failed because the materialized value is null. Either the result type's generic parameter or the query must use a nullable type.
+__________________________
+
+Log Entry : 
+07/24/2014 07:07:38
+Error in: http://localhost:11843/ReceiveUnfinishedInventory.aspx. Error Message: The cast to value type 'Double' failed because the materialized value is null. Either the result type's generic parameter or the query must use a nullable type.
+__________________________
+
+Log Entry : 
+07/24/2014 12:41:41
+Error in: http://localhost:11843/ReceiveUnfinishedInventory.aspx. Error Message: Input string was not in a correct format.
+__________________________
+
+Log Entry : 
+07/24/2014 12:41:56
+Error in: http://localhost:11843/ReceiveUnfinishedInventory.aspx. Error Message: Input string was not in a correct format.
+__________________________
+
+Log Entry : 
+07/24/2014 12:45:48
+Error in: http://localhost:11843/ReceiveUnfinishedInventory.aspx. Error Message: Input string was not in a correct format.
+__________________________
+
+Log Entry : 
+07/24/2014 12:45:54
+Error in: http://localhost:11843/ReceiveUnfinishedInventory.aspx. Error Message: Input string was not in a correct format.
+__________________________
+
+Log Entry : 
+07/24/2014 13:03:28
+Error in: http://localhost:11843/ReceiveUnfinishedInventory.aspx. Error Message: An error occurred while updating the entries. See the inner exception for details.
+__________________________
+
+Log Entry : 
+07/24/2014 13:09:49
+Error in: http://localhost:11843/ReceiveUnfinishedInventory.aspx. Error Message: Input string was not in a correct format.
+__________________________
+
+Log Entry : 
+07/24/2014 13:09:50
+Error in: http://localhost:11843/ReceiveUnfinishedInventory.aspx. Error Message: Input string was not in a correct format.
+__________________________
+
+Log Entry : 
+07/24/2014 13:09:51
+Error in: http://localhost:11843/ReceiveUnfinishedInventory.aspx. Error Message: Input string was not in a correct format.
+__________________________
+
+Log Entry : 
+07/24/2014 13:10:09
+Error in: http://localhost:11843/ReceiveUnfinishedInventory.aspx. Error Message: Input string was not in a correct format.
+__________________________
+
+Log Entry : 
+07/24/2014 13:10:10
+Error in: http://localhost:11843/ReceiveUnfinishedInventory.aspx. Error Message: Input string was not in a correct format.
+__________________________
+
+Log Entry : 
+07/24/2014 13:10:10
+Error in: http://localhost:11843/ReceiveUnfinishedInventory.aspx. Error Message: Input string was not in a correct format.
+__________________________
+
+Log Entry : 
+07/24/2014 13:10:11
+Error in: http://localhost:11843/ReceiveUnfinishedInventory.aspx. Error Message: Input string was not in a correct format.
+__________________________
+
+Log Entry : 
+07/24/2014 13:20:44
+Error in: http://localhost:11843/ReceiveUnfinishedInventory.aspx. Error Message: The cast to value type 'Double' failed because the materialized value is null. Either the result type's generic parameter or the query must use a nullable type.
+__________________________
+
+Log Entry : 
+07/24/2014 13:20:44
+Error in: http://localhost:11843/ReceiveUnfinishedInventory.aspx. Error Message: The cast to value type 'Double' failed because the materialized value is null. Either the result type's generic parameter or the query must use a nullable type.
+__________________________
+
+Log Entry : 
+07/24/2014 13:20:52
+Error in: http://localhost:11843/ReceiveUnfinishedInventory.aspx. Error Message: Input string was not in a correct format.
+__________________________
+
+Log Entry : 
+07/24/2014 13:28:03
+Error in: http://localhost:11843/ReceiveUnfinishedInventory.aspx. Error Message: The cast to value type 'Double' failed because the materialized value is null. Either the result type's generic parameter or the query must use a nullable type.
+__________________________
+
+Log Entry : 
+07/24/2014 13:28:03
+Error in: http://localhost:11843/ReceiveUnfinishedInventory.aspx. Error Message: The cast to value type 'Double' failed because the materialized value is null. Either the result type's generic parameter or the query must use a nullable type.
+__________________________
